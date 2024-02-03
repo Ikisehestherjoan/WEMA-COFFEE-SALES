@@ -22,7 +22,6 @@ In this Excel project, imagine you are working with a coffee retail company that
    - I Inserted a timeline to analyze sales performance over specific periods easily. This helps in identifying seasonal trends and planning promotions accordingly.
 8. Building a Comprehensive Dashboard:
    -I Built a dashboard using multiple IF functions, showcasing key metrics, top-selling products, and customer segments. Provide an at-a-glance view for quick decision-making.
-9. Pro Tips for Efficiency:
-   - Share pro tips on optimizing Excel workflows, such as using XLOOKUP for efficient data retrieval and leveraging INDEX MATCH for dynamic lookups.
+
 
 
