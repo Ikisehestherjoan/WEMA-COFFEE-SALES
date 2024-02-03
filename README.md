@@ -2,7 +2,7 @@
 
 ### Business Problem:
 
-Sales Performance Analysis for a Retail Company
+WEMA COFFEE SALES ANALYSIS
 
 In this Excel project, imagine you are working with a retail company that has customer information, order details, and product data. The goal is to analyze sales performance and identify key insights for strategic decision-making.
 ### Specific Business Challenges:
