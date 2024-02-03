@@ -4,7 +4,7 @@
 
 WEMA COFFEE SALES ANALYSIS
 
-In this Excel project, imagine you are working with a retail company that has customer information, order details, and product data. The goal is to analyze sales performance and identify key insights for strategic decision-making.
+In this Excel project, imagine you are working with a coffee retail company that has customer information, order details, and product data. The goal is to analyze sales performance and identify key insights for strategic decision-making.
 ### Specific Business Challenges:
 1. Identifying High-Performing Products:
    - I Used XLOOKUP,VLOOKUP, INDEX MATCH to find the most profitable products based on sales data. I Highlight those products to focus marketing efforts and optimize inventory.
